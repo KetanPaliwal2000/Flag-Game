@@ -9,11 +9,12 @@ A fun and interactive game where players guess the flags of different countries!
 - Simple and intuitive interface.
 
 ## Screenshots
-![Screenshot 1](https://github.com/KetanPaliwal2000/Flag-Game/blob/a73b8b8ea3aa381d94102458433917fb9fd7b89e/Screenshot%201.jpg) ![Screenshot 2](https://github.com/KetanPaliwal2000/Flag-Game/blob/b23d6dc7098f4a4936d8b32f89c5cedc6fa2d70a/Screenshot%202.jpg)
+<img src="https://github.com/KetanPaliwal2000/Flag-Game/blob/a73b8b8ea3aa381d94102458433917fb9fd7b89e/Screenshot%201.jpg" alt="Screenshot 1" width="200">
+<img src="https://github.com/KetanPaliwal2000/Flag-Game/blob/b23d6dc7098f4a4936d8b32f89c5cedc6fa2d70a/Screenshot%202.jpg" alt="Screenshot 2" width="200">
 
 ## Technologies Used
-SwiftUI: For building the user interface.
-UserDefaults: For saving and loading user progress.
+- SwiftUI: For building the user interface.
+- UserDefaults: For saving and loading user progress.
 
 ## Installation
 Clone this repository to your local machine:

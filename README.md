@@ -9,7 +9,7 @@ A fun and interactive game where players guess the flags of different countries!
 - Simple and intuitive interface.
 
 ## Screenshots
-
+![Screenshot 1](https://github.com/KetanPaliwal2000/Flag-Game/blob/a73b8b8ea3aa381d94102458433917fb9fd7b89e/Screenshot%201.jpg)
 
 ## Technologies Used
 SwiftUI: For building the user interface.

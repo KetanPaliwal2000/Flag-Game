@@ -22,15 +22,16 @@ A fun and interactive game where players guess the flags of different countries!
 ## Installation
 Clone this repository to your local machine:
 
-bash
-Copy
-git clone https://github.com/your-username/flag-guessing-game.git
+git clone [https://github.com/your-username/flag-guessing-game.git](https://github.com/KetanPaliwal2000/Flag-Game.git)
 Open the project in Xcode.
 
 Build and run the project on your simulator or device.
 
 ## How to Play
 The game will display a flag and provide multiple choices of countries.
+
 Select the flag you believe corresponds to the country.
+
 Your score will update based on your correct or incorrect guesses.
+
 The game continues with new countries until the number of questions turn to 0.
